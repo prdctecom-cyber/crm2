@@ -1,0 +1,8 @@
+{
+  "name": "Ecoénergie CRM Dashboard",
+  "description": "Arabic CRM and management dashboard for Ecoénergie with budget tracking, order analytics, and delivery management",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
